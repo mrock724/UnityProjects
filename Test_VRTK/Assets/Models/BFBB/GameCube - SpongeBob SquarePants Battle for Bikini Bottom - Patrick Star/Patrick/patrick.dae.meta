@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: b07abe4191851fd48a2a4dd6d7abc9cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Material__26
+    100002: pat_armleft
+    100004: pat_armright
+    100006: pat_belly
+    100008: pat_bottomteeth
+    100010: pat_elbowleft
+    100012: pat_elbowright
+    100014: pat_fatback
+    100016: pat_fatleft
+    100018: pat_fatright
+    100020: pat_fingerleft
+    100022: pat_fingerright
+    100024: pat_fingertipleft
+    100026: pat_fingertipright
+    100028: pat_footleft
+    100030: pat_footright
+    100032: pat_handleft
+    100034: pat_handright
+    100036: pat_head
+    100038: pat_head1
+    100040: pat_head2
+    100042: pat_head3
+    100044: pat_head4
+    100046: pat_head5
+    100048: pat_kneeleft
+    100050: pat_kneeright
+    100052: pat_leftbrow
+    100054: pat_legleft
+    100056: pat_legright
+    100058: pat_legs
+    100060: pat_lip
+    100062: pat_lowerleftlid
+    100064: pat_lowerrightlid
+    100066: pat_mouth
+    100068: pat_pelvis
+    100070: pat_pupilleft
+    100072: pat_pupilright
+    100074: pat_rightbrow
+    100076: pat_root
+    100078: pat_shoulderleft
+    100080: pat_shoulderright
+    100082: pat_spine
+    100084: pat_teeth
+    100086: pat_toeleft
+    100088: pat_toeright
+    100090: pat_tongue1
+    100092: pat_tongue2
+    100094: pat_tongue3
+    100096: pat_upperleftlid
+    100098: pat_upperlip
+    100100: pat_upperrightlid
+    100102: pat_wristleft
+    100104: pat_wristright
+    100106: //RootNode
+    400000: Material__26
+    400002: pat_armleft
+    400004: pat_armright
+    400006: pat_belly
+    400008: pat_bottomteeth
+    400010: pat_elbowleft
+    400012: pat_elbowright
+    400014: pat_fatback
+    400016: pat_fatleft
+    400018: pat_fatright
+    400020: pat_fingerleft
+    400022: pat_fingerright
+    400024: pat_fingertipleft
+    400026: pat_fingertipright
+    400028: pat_footleft
+    400030: pat_footright
+    400032: pat_handleft
+    400034: pat_handright
+    400036: pat_head
+    400038: pat_head1
+    400040: pat_head2
+    400042: pat_head3
+    400044: pat_head4
+    400046: pat_head5
+    400048: pat_kneeleft
+    400050: pat_kneeright
+    400052: pat_leftbrow
+    400054: pat_legleft
+    400056: pat_legright
+    400058: pat_legs
+    400060: pat_lip
+    400062: pat_lowerleftlid
+    400064: pat_lowerrightlid
+    400066: pat_mouth
+    400068: pat_pelvis
+    400070: pat_pupilleft
+    400072: pat_pupilright
+    400074: pat_rightbrow
+    400076: pat_root
+    400078: pat_shoulderleft
+    400080: pat_shoulderright
+    400082: pat_spine
+    400084: pat_teeth
+    400086: pat_toeleft
+    400088: pat_toeright
+    400090: pat_tongue1
+    400092: pat_tongue2
+    400094: pat_tongue3
+    400096: pat_upperleftlid
+    400098: pat_upperlip
+    400100: pat_upperrightlid
+    400102: pat_wristleft
+    400104: pat_wristright
+    400106: //RootNode
+    2100000: Material__26
+    4300000: Material__26
+    9500000: //RootNode
+    13700000: Material__26
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

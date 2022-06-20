@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: ff2baa1c5cea8b444af627ab678adc85
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Material__26
+    100002: //RootNode
+    100004: neptune_armleft
+    100006: neptune_armright
+    100008: neptune_beard
+    100010: neptune_beardleft1
+    100012: neptune_beardleft2
+    100014: neptune_beardright1
+    100016: neptune_beardright2
+    100018: neptune_browleft
+    100020: neptune_browright
+    100022: neptune_elbowleft
+    100024: neptune_elbowright
+    100026: neptune_eyeleft
+    100028: neptune_eyeright
+    100030: neptune_finger1left
+    100032: neptune_finger1right
+    100034: neptune_finger2left
+    100036: neptune_finger2right
+    100038: neptune_finger3left
+    100040: neptune_finger3right
+    100042: neptune_finger4left
+    100044: neptune_finger4right
+    100046: neptune_finger5left
+    100048: neptune_finger5right
+    100050: neptune_hair1
+    100052: neptune_hair2
+    100054: neptune_hairleft
+    100056: neptune_hairright
+    100058: neptune_handleft
+    100060: neptune_handright
+    100062: neptune_head
+    100064: neptune_mouth
+    100066: neptune_pelvis
+    100068: neptune_root
+    100070: neptune_shell
+    100072: neptune_shoulderleft
+    100074: neptune_shoulderright
+    100076: neptune_spine
+    100078: neptune_spine1
+    100080: neptune_spine2
+    100082: neptune_stacheleft
+    100084: neptune_stacheright
+    100086: neptune_tail1
+    100088: neptune_tail2
+    100090: neptune_tail3
+    100092: neptune_tail4
+    100094: neptune_tail5
+    100096: neptune_tail6
+    100098: neptune_tail7
+    100100: neptune_tail8
+    100102: neptune_tailleft1
+    100104: neptune_tailleft2
+    100106: neptune_tailright1
+    100108: neptune_tailright2
+    100110: neptune_upperlip
+    400000: Material__26
+    400002: //RootNode
+    400004: neptune_armleft
+    400006: neptune_armright
+    400008: neptune_beard
+    400010: neptune_beardleft1
+    400012: neptune_beardleft2
+    400014: neptune_beardright1
+    400016: neptune_beardright2
+    400018: neptune_browleft
+    400020: neptune_browright
+    400022: neptune_elbowleft
+    400024: neptune_elbowright
+    400026: neptune_eyeleft
+    400028: neptune_eyeright
+    400030: neptune_finger1left
+    400032: neptune_finger1right
+    400034: neptune_finger2left
+    400036: neptune_finger2right
+    400038: neptune_finger3left
+    400040: neptune_finger3right
+    400042: neptune_finger4left
+    400044: neptune_finger4right
+    400046: neptune_finger5left
+    400048: neptune_finger5right
+    400050: neptune_hair1
+    400052: neptune_hair2
+    400054: neptune_hairleft
+    400056: neptune_hairright
+    400058: neptune_handleft
+    400060: neptune_handright
+    400062: neptune_head
+    400064: neptune_mouth
+    400066: neptune_pelvis
+    400068: neptune_root
+    400070: neptune_shell
+    400072: neptune_shoulderleft
+    400074: neptune_shoulderright
+    400076: neptune_spine
+    400078: neptune_spine1
+    400080: neptune_spine2
+    400082: neptune_stacheleft
+    400084: neptune_stacheright
+    400086: neptune_tail1
+    400088: neptune_tail2
+    400090: neptune_tail3
+    400092: neptune_tail4
+    400094: neptune_tail5
+    400096: neptune_tail6
+    400098: neptune_tail7
+    400100: neptune_tail8
+    400102: neptune_tailleft1
+    400104: neptune_tailleft2
+    400106: neptune_tailright1
+    400108: neptune_tailright2
+    400110: neptune_upperlip
+    2100000: Material__26
+    4300000: Material__26
+    9500000: //RootNode
+    13700000: Material__26
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
