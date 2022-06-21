@@ -1,0 +1,29 @@
+# Material file for bowling_machine.obj
+
+newmtl bowling_machine
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd bowling_machine.png
+
+newmtl wooden_pilings
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd wooden_pilings.png
+
+newmtl wooden_pilings_a
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd wooden_pilings_a.png
+
